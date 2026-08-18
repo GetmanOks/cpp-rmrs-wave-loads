@@ -1,0 +1,15 @@
+# Каталоги сборки
+build/
+out/
+cmake-build-*/
+
+# Служебные файлы IDE
+.vs/
+.vscode/
+*.user
+
+# Артефакты компиляции
+*.obj
+*.exe
+*.pdb
+*.ilk
